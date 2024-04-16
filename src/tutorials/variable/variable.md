@@ -249,6 +249,6 @@ System.out.println("Converted int value: " + intVal); //3 소수점 이하 데�
 4. 호환되지 않는 타입: 일부 데이터 타입은 서로 호환 되지 않아 직접적인 변환이 불가합니다. boolean 타입은 다른 타입으로 변환할 수 없습니다.
 
 # 참고
-https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html
-https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.4
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html  
+https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.4  
 https://docs.oracle.com/javase/specs/jls/se10/html/jls-5.html
