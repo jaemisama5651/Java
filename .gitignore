@@ -4,4 +4,4 @@ target/
 bin/
 out/
 Java.iml
-
+*.txt
