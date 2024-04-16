@@ -244,3 +244,7 @@ System.out.println("Converted int value: " + intVal); //3 소수점 이하 데�
 3. 오버플루우 및 언더플로우: 정수 타입 간의 변환에서 큰 값을 작은 타입으로 변환하려고 할 때 오버플로우 또는 언더플로우가 발생할 수 있습니다.
 4. 호환되지 않는 타입: 일부 데이터 타입은 서로 호환 되지 않아 직접적인 변환이 불가합니다. boolean 타입은 다른 타입으로 변환할 수 없습니다.
 
+# 참고
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html
+https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.4
+https://docs.oracle.com/javase/specs/jls/se10/html/jls-5.html
